@@ -11,6 +11,36 @@ def sum_two_numbers(a, b):
     return a + b
 ```
 
+## Examples
+
+### Example 1
+
+```text
+Input: `add_numbers(5, 7)`
+Output: `12`
+Explanation: The sum of 5 and 7 is 12.
+```
+
+### Example 2
+
+```text
+Input: `add_numbers(-3, -4)`
+Output: `-7`
+Explanation: The sum of -3 and -4 is -7.
+```
+
+### Example 3
+
+```text
+Input: `add_numbers(10, -3)`
+Output: `7`
+Explanation: The sum of 10 and -3 is 7.
+```
+
+## Constraints
+
+- None
+
 ## Testing
 
 NOTE: Make sure you're in the `004-python-sum-of-two-numbers` directory (containing the `test.py` file) when executing the command above.
