@@ -10,4 +10,3 @@ b=int(b)
 
 sum_result = add_numbers(a, b)
 print("The sum of ",a , "and ",b , "is: " , sum_result)
-
