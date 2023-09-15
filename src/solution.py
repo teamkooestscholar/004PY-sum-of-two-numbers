@@ -6,7 +6,7 @@ sum2 = input("Type In Second Value: ")
 sumtotal = float(sum1) + float(sum2)
 
 #Display
-#
+#.format is a fucntion use to add placeholder when printing a text to have a more professional print output.
 print('The sum of {0} and {1} is {2}'.format(sum1, sum2, sumtotal))
 
 #Possible Other Display Output
