@@ -1,14 +1,8 @@
-def addtwonums():
-    
-    num1 = int(input("Please input the value of the first integer here: "))
-    num2 = int(input("Please input the value of the second integer here "))
+def add_numbers(num1, num2):
+    # Perform the addition
+    result = num1 + num2
 
-    # Place the formula for the operation here
-    sum = num1 + num2
+    # Print the result
+    print("The summation of the integers", num1, "and", num2, "is", result)
 
-    #Printout the result of the summation of two numbers
-    print("The summation of the integers", num1, "and", num2, "is", sum)
-
-
-
-addtwonums()
+    return result
