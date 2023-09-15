@@ -64,6 +64,23 @@ test_add_mixed_numbers (test.TestAddNumbers.test_add_mixed_numbers) ... ok
 test_add_negative_numbers (test.TestAddNumbers.test_add_negative_numbers) ... ok
 test_add_positive_numbers (test.TestAddNumbers.test_add_positive_numbers) ... ok
 
+# Sum of Two Numbers
+
+Creating a function that takes two numbers as arguments and return their sum.
+
+## Function: `add_numbers(a, b)`
+
+This function adds two numbers and returns the result.
+
+### Parameters
+
+- `a` (int or float): The first number to be added.
+- `b` (int or float): The second number to be added.
+
+### Returns
+
+- int or float: The sum of the two input numbers.
+
 ----------------------------------------------------------------------
 Ran 3 tests in 0.001s
 
