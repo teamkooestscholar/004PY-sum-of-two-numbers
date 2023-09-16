@@ -1,2 +1,8 @@
-def add_numbers(a, b):
-    pass # Remove the function "pass" and write your code here
+def add_numbers(num, num2):
+    # Perform the addition
+    result = num + num2
+
+    # Print the result
+    print("The sum of", num, "and", num2, "is", result)
+
+    return result
