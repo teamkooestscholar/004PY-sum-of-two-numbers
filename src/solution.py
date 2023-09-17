@@ -2,8 +2,7 @@ def add_numbers(a,b):
     result = a + b
     return result
 
-
-#First Attempt Did Not Consult Test.py (My Bad)
+#First Attempt Did Not Consult OR Completely Read Instruction and Consideration of Test.py (My Bad)
 #Insert User Variables
 #sum1 = input("Type In First Value: ")
 #sum2 = input("Type In Second Value: ")
