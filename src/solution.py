@@ -1,5 +1,10 @@
+def add_numbers(a,b):
+    result = a + b
+    return result
 
 
+
+# added compatability of unit test
 
 # def sumadd(a,b):
 #     #Ran in pycharm will run in codespaces at a later date
@@ -18,5 +23,3 @@
 # sumadd(a,b)
 
 
-def sum_two_numbers(a, b):
-    return a + b
