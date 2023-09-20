@@ -15,6 +15,6 @@ def add_numbers():
             sum_result = num1 + num2
             print(f"The sum of {num1} and {num2} is: {sum_result}")
         except ValueError:
-            print("Invalid input. Please enter valid numbers or 'q' to quit.")
+            print("Invalid input! Please enter valid numbers or 'q' to quit.")
 
 add_numbers()
