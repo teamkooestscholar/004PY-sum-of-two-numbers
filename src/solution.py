@@ -1,2 +1,6 @@
-def add_numbers(a, b):
-    pass # Remove the function "pass" and write your code here
+def sum(a, b):
+    return a + b
+    
+total = sum(-9,1)
+
+print(total)
